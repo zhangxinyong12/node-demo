@@ -1,0 +1,22 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "node-学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxinyong12/node-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxinyong12/node-demo/issues"
+  },
+  "homepage": "https://github.com/zhangxinyong12/node-demo#readme",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
